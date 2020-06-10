@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>Mudah Membuat Konten Hugo</title>
+      <link>https://diahkm.github.io/post/mudah-konten/</link>
+      <pubDate>Fri, 05 Jun 2020 23:25:58 +0700</pubDate>
+      
+      <guid>https://diahkm.github.io/post/mudah-konten/</guid>
+      <description>Environment yang saya gunakan yaitu :
+ Ubuntu 18.04 Golang 1.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://diahkm.github.io/archives/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
@@ -48,7 +58,7 @@
     </item>
     
     <item>
-      <title>Paduan Sintaks Markdown</title>
+      <title>Panduan Sintaks Markdown</title>
       <link>https://diahkm.github.io/post/sintaks-markdown/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       

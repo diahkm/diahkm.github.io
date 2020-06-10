@@ -6,13 +6,23 @@
     <description>Recent content in markdown on Website of Diah Komala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 23:25:58 +0700</lastBuildDate>
     
 	<atom:link href="https://diahkm.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Paduan Sintaks Markdown</title>
+      <title>Mudah Membuat Konten Hugo</title>
+      <link>https://diahkm.github.io/post/mudah-konten/</link>
+      <pubDate>Fri, 05 Jun 2020 23:25:58 +0700</pubDate>
+      
+      <guid>https://diahkm.github.io/post/mudah-konten/</guid>
+      <description>Environment yang saya gunakan yaitu :
+ Ubuntu 18.04 Golang 1.</description>
+    </item>
+    
+    <item>
+      <title>Panduan Sintaks Markdown</title>
       <link>https://diahkm.github.io/post/sintaks-markdown/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
